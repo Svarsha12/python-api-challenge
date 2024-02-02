@@ -8,7 +8,7 @@ weatherpy.ipynb Jupyter notebook provided in the starter code ZIP file and refer
 and visualization for all comparision is captured on the out_put folder.
 ##Hints and Help
 
-Taken into consideration all the hints. I completed projects by consulting data-visualization documentation, went through all class materials and took help from xpertlearning.
+Taken into consideration all the hints. I completed projects by consulting python-api documentation, went through all class materials and took help from xpertlearning.
 
 ##Part 1: VacationPy
 
@@ -18,6 +18,6 @@ added hotekl and the country
 
 #Hints and Help
 
-Taken into consideration all the hints. I completed projects by consulting data-visualization documentation, went through all class materials and took help from xpertlearning, and consulted AskBCS learning assistant.
+Taken into consideration all the hints. I completed projects by consulting python-api documentation, went through all class materials and took help from xpertlearning, and consulted AskBCS learning assistant.
 
 
